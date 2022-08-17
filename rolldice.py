@@ -2,11 +2,11 @@ import random
 
 
 def dice_one():
-    return random.randint(1,6)
+    return random.randint(1,7)
 
 
 def dice_two():
-    return random.randint(1,6)
+    return random.randint(1,7)
 
 
 roll_one = dice_one()
